@@ -1,0 +1,7 @@
+'''
+Consider using a two pointer when you are jumping over multiple iterations.
+Example Problem: 
+
+Encode and Decode String
+
+'''
