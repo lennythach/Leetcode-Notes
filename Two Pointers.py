@@ -19,4 +19,5 @@ Leetcode problem:
 BIG TAKE AWAY:
     DONT BE AFRAID TO GO FOR A NLOGN SOLUTION!!!!
     use the sorting as long as you can get the answer first.
+    NOT ALL PROBLEM CAN BE SOLVED WITH AN O(N) SOLUTION
 '''
